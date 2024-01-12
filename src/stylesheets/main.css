@@ -225,7 +225,6 @@ User profile styling
 
 .profile-container p {
     font-size: 0.8em;
-    max-width: calc(100% - 110px);
 }
 
 .profile-container button {
@@ -298,6 +297,10 @@ Media queries for responsive design
         width: 100% !important;
     }
 
+    .profile-container p {
+        font-size: 0.6em;
+    }
+    
     select {
         width: 100% !important;
     }
