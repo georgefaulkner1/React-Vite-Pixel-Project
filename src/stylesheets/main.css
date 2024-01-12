@@ -224,6 +224,7 @@ User profile styling
 
 .profile-container p {
     font-size: 0.8em;
+    max-width: calc(100% - 110px);
 }
 
 .profile-container button {
@@ -257,6 +258,7 @@ select {
     border-radius: var(--primary-border-radius);
     margin: 5px 0 5px 0;
     padding: 0 0 0 10px;
+    background-color: var(--light-color);
 }
 
 select:focus {
