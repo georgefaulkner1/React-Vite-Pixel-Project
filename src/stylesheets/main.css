@@ -196,8 +196,6 @@ Content class styling
 .content {
     width: 100%;
     height: auto;
-    padding: 0;
-    margin: 0;
     display: flex;
     align-items: center;
     flex-direction: column;
