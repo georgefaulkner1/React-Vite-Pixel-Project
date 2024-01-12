@@ -61,6 +61,7 @@ Loading styling with animation
     font-weight: 500;
     font-size: 18px;
     margin: 0 0 5px 0;
+    color: var(--primary-green-color);
 }
 
 .loading-balls {
@@ -82,7 +83,7 @@ Loading styling with animation
     width: 7px;
     height: 7px;
     border-radius: 50%;
-    background: var(--font-color);
+    background: var(--primary-green-color);
     margin: -4px 0 0 -4px;
 }
 
